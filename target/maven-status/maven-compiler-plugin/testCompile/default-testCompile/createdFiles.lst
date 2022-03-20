@@ -1,0 +1,5 @@
+com\calculatorapp\cucumber\SpringIntegrationTest.class
+com\calculatorapp\cucumber\CalculatorStepDefinitions.class
+com\calculatorapp\CalculatorappApplicationTests.class
+com\calculatorapp\cucumber\CalculatorBDDTest.class
+com\calculatorapp\services\CalculatorServiceImplTest.class
